@@ -632,13 +632,13 @@
     {
         "device_id": "4b67bdbdc950d579",
         "key": "X51",
-        "expirydate": "15-06-2026",
+        "expirydate": "15-03-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2026",
+        "device_id": "5a3a4441c4feb5f5",
+        "key": "X52",
+        "expirydate": "15-03-2026",
         "Allowoffline": false
     },
     {
